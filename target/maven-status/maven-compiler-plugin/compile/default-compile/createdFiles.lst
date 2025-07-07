@@ -1,0 +1,6 @@
+com\mycompany\librarymanagement\Book.class
+com\mycompany\librarymanagement\LibraryManagement.class
+com\mycompany\librarymanagement\User.class
+com\mycompany\librarymanagement\BookCopy.class
+com\mycompany\librarymanagement\Rack.class
+com\mycompany\librarymanagement\Library.class
